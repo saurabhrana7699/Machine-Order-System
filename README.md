@@ -15,3 +15,5 @@ Inventory Management: Maintain a comprehensive inventory of available machines, 
 - **Spring Boot**
 - **Spring data JPA**
 - **MySQL**
+- **Spring Security**
+- **Spring MVC**
